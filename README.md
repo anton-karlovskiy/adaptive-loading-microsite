@@ -102,7 +102,7 @@ const AdaptiveComponent = () => {
 
 ```bash
 # Clone the repository
-git clone https://github.com/GoogleChromeLabs/adaptive-loading.git
+git clone https://github.com/anton-karlovskiy/adaptive-loading-microsite.git
 cd adaptive-loading-microsite
 
 # Install dependencies
