@@ -29,7 +29,7 @@ A comprehensive showcase of **adaptive loading strategies** for modern web appli
 Explore **24+ interactive demos** showcasing different adaptive loading strategies:
 
 ### **React Examples**
-- [React Twitter - Save Data Loading](https://adaptive-loading.web.app/react-twitter-save-data-loading-client-hint/)
+- [React Twitter - Save Data Loading](https://adaptive-loading.web.app/react-twitter-save-data-loading(client-hint)/)
 - [React Movie - Network-Aware Loading](https://adaptive-loading.web.app/react-movie-network-aware-loading/)
 - [React Shrine - Network-Aware Code Splitting](https://adaptive-loading.web.app/react-shrine-network-aware-code-splitting/)
 - [React YouTube - Multi-Factor Adaptive Loading](https://adaptive-loading.web.app/react-youtube-adaptive-loading/)
